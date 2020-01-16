@@ -4,7 +4,7 @@ An application shows last 10 SpaceX missions, with an exact load in rockets. App
 
 ## Check it out!
 
-[SpaceX App](https://github.com/DariuszSikorra/spacex-graphql-app)
+[SpaceX App](https://dariuszsikorra.github.io/spacex-graphql-app/)
 
 ## About
 
