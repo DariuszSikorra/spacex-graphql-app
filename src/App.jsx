@@ -15,7 +15,7 @@ const imagesStyles = {
 };
 
 const client = new ApolloClient({
-  uri: "http://api.spacex.land/graphql/"
+  uri: "https://api.spacex.land/graphql/"
 });
 
 const useStyles = makeStyles({
