@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/spacex-graphql-app/static/css/main.1b39a72c.chunk.css",
-    "main.js": "/spacex-graphql-app/static/js/main.3ab56852.chunk.js",
-    "main.js.map": "/spacex-graphql-app/static/js/main.3ab56852.chunk.js.map",
+    "main.js": "/spacex-graphql-app/static/js/main.18c62b27.chunk.js",
+    "main.js.map": "/spacex-graphql-app/static/js/main.18c62b27.chunk.js.map",
     "runtime-main.js": "/spacex-graphql-app/static/js/runtime-main.a7eacd03.js",
     "runtime-main.js.map": "/spacex-graphql-app/static/js/runtime-main.a7eacd03.js.map",
     "static/js/2.879e5f32.chunk.js": "/spacex-graphql-app/static/js/2.879e5f32.chunk.js",
     "static/js/2.879e5f32.chunk.js.map": "/spacex-graphql-app/static/js/2.879e5f32.chunk.js.map",
     "index.html": "/spacex-graphql-app/index.html",
-    "precache-manifest.46e0009494adf24920197df9b89d03d9.js": "/spacex-graphql-app/precache-manifest.46e0009494adf24920197df9b89d03d9.js",
+    "precache-manifest.73c4ff0e85bda544c2407f0bc1908b21.js": "/spacex-graphql-app/precache-manifest.73c4ff0e85bda544c2407f0bc1908b21.js",
     "service-worker.js": "/spacex-graphql-app/service-worker.js",
     "static/css/main.1b39a72c.chunk.css.map": "/spacex-graphql-app/static/css/main.1b39a72c.chunk.css.map",
     "static/js/2.879e5f32.chunk.js.LICENSE": "/spacex-graphql-app/static/js/2.879e5f32.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a7eacd03.js",
     "static/js/2.879e5f32.chunk.js",
     "static/css/main.1b39a72c.chunk.css",
-    "static/js/main.3ab56852.chunk.js"
+    "static/js/main.18c62b27.chunk.js"
   ]
 }
